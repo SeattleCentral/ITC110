@@ -139,7 +139,7 @@ Chapter 13: Algorithm Design and Recursion
 Review<br>
 Final Exam
 
-***No class on**<br>
+**\*No class on**<br>
 TBD<br>
 See College Holidays
 
