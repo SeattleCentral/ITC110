@@ -23,6 +23,9 @@ Be mindful of these tidbits of information. They may become quiz questions. Whic
 	* Experimentation
 		* For when it's too complex for analysis or direct design
 
+### Algorithm
+> A process or set of rules to be followed by the computer. For example, a computer program. Like a "recipe" for the computer to follow. Except it doesn't make cake. 
+
 ### Hardware Basics
 Only important insomuch as you want a general idea how your computer works. Hardware architecture becomes more important in advanced courses where it may affect program design decisions. Python does a really good job of abstracting away our considerations for the underlying hardware.
 
