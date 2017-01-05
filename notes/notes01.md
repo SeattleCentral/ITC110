@@ -75,6 +75,7 @@ Try it!
 
 
 ## Et Cetera
+* Slides for [Chapter 01](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter01.pptx)
 * Examples for [Lecture 01](../examples/lecture01.py)
 * Example of a ["compiled" language (C)](../examples/test.c)
 * If you could not login with your first initial and last name, then contact Lisa Sandoval.
