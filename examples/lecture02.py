@@ -1,10 +1,8 @@
-# A simple program demonstrating chaotic behavior
+# Create an example function
 
 def main():
-    print("This program illustrates a chaotic function")
-    x = eval(input("Enter a number between 0 and 1: "))
-    for i in range(10):
-        x = 3.9 * x * (1 -x)
-        print(x)
+    first_name = input("What is your first name? ")
+    last_name = input("What is your last name? ")
+    print("Hello, {0} {1}! How are you today?".format(first_name, last_name))
 
 main()
