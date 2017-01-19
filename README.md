@@ -96,23 +96,23 @@ Students with documented disabilities requesting class accommodations, requiring
 ## Schedule (Subject to Change)
 
 **Week 1**<br>
-Chapter 1: Computers and Programs<br>
-Chapter 2: Writing Simple Programs
+Chapter 1: Computers and Programs
 
 **Week 2**<br>
+Chapter 1, continued: Computers and Programs<br>
+Chapter 2: Writing Simple Programs
+
+**Week 3**<br>
 Chapter 2, continued: Writing Simple Programs<br>
 Chapter 3: Computing with Numbers
 
-**Week 3**<br>
+**Week 4**<br>
+Chapter 3, continued: Computing with Numbers<br>
 Chapter 4: Objects and Graphics
 
-**Week 4**<br>
-Chapter 4, continued: Objects and Graphics<br>
-Chapter 5: Sequences: Strings, Lists, Files
-
 **Week 5**<br>
-Chapter 5, continued: Sequences: Strings, Lists, Files<br>
-Midterm (2/01/2017)
+Chapter 5: Sequences: Strings, Lists, Files<br>
+Midterm - **February 1st, 2017**
 
 **Week 6**<br>
 Chapter 6: Functions
@@ -137,9 +137,11 @@ Chapter 13: Algorithm Design and Recursion
 
 **Week 12**<br>
 Review<br>
-Final Exam
+Final Exam - **March 22nd, 2017**
 
 **\*No class on**<br>
-TBD<br>
+January 16th, 2017 - Martin Luther King, Jr. Day<br>
+February 20th, 2017 - President's Day
+
 See College Holidays
 
