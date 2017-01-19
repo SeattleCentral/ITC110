@@ -1,5 +1,5 @@
 ## Assignment 01
-Assigned on January 04, 2017.
+Assigned on: January 04, 2017
 
 Due: January 09, 2017
 
