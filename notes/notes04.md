@@ -63,3 +63,8 @@ The integer number type includes whole numbers (no decimal part). You can force 
 
 ## Float
 The float number type supports a decimal, or *fractional* component. For example: `3.333`. Because a computer cannot natively store partial numbers, it uses an approximation scheme to represent the fractional component, which is not always accurate. You can force a float number type with `float()`.
+
+## Et Cetera
+* Slides for [Chapter 03](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter03.pptx)
+* Examples for [Lecture 04](../examples/lecture04.py)
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)
