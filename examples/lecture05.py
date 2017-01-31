@@ -26,7 +26,7 @@ print("I have $", count_money(), sep="")
 
 
 # Decimals 
-# =======
+# ========
 from decimal import Decimal
 
 def count_money():
@@ -59,11 +59,11 @@ print("I have $", count_money(), sep="")
 import math
 
 def solve_quadratic(a, b, c):
-    discRoot = (b * b - 4 * a * c) ** 0.5
+    discRoot = math.sqrt(b * b - 4 * a * c)
     root1 = (-b + discRoot) / (2 * a)
     root2 = (-b - discRoot) / (2 * a)
 
-    print ("The solution is: ", root1, root2)
+    print ("The solution is:", root1, root2)
 
 solve_quadratic(3, 4, -1)
 
