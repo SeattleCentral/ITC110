@@ -37,6 +37,13 @@ If a car is an ***object*** in the most literal sense, then a ***class*** would 
 ## Alias
 When assigning an object to a second (or third, etc.) variable, Python does not \*copy\* the object by default. Instead, it creates another variable that points to the exact same object. This is called an *alias*.
 
+# Code Samples
+Check out these student submitted code samples.<br>
+*Note: permission granted by students prior to sharing.*
+
+Ivan's "meh" face.<br>
+![meh_face](../examples/lecture07_student_ivan.png)<br>
+Link to [code](../examples/lecture07_student_ivan.py)
 
 ## Et Cetera
 * Slides for [Chapter 04](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter04.pptx)
