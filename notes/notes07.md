@@ -42,7 +42,7 @@ Check out these student submitted code samples.<br>
 *Note: permission granted by students prior to sharing.*
 
 Ivan's "meh" face.<br>
-![meh_face](../examples/lecture07_student_ivan.png){width=250px}<br>
+![meh_face](../examples/lecture07_student_ivan.png =250)<br>
 Link to [code](../examples/lecture07_student_ivan.py)
 
 ## Et Cetera
