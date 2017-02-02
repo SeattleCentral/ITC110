@@ -111,13 +111,14 @@ Chapter 3, continued: Computing with Numbers<br>
 Chapter 4: Objects and Graphics
 
 **Week 5**<br>
-Chapter 5: Sequences: Strings, Lists, Files<br>
-Midterm - **February 1st, 2017**
+Chapter 4, continued: Objects and Graphics
 
 **Week 6**<br>
-Chapter 6: Functions
+Chapter 5: Sequences: Strings, Lists, Files<br>
+Midterm - **February 8th, 2017**
 
 **Week 7**<br>
+Chapter 6: Functions
 Chapter 7: Decision Structures
 
 **Week 8**<br>
