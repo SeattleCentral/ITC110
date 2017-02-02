@@ -118,7 +118,7 @@ Chapter 5: Sequences: Strings, Lists, Files<br>
 Midterm - **February 8th, 2017**
 
 **Week 7**<br>
-Chapter 6: Functions
+Chapter 6: Functions<br>
 Chapter 7: Decision Structures
 
 **Week 8**<br>
