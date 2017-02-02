@@ -125,7 +125,7 @@ Chapter 7: Decision Structures
 Chapter 8: Loop Structures and booleans
 
 **Week 9**<br>
-Chapter 8, continued: Objects and Graphics<br>
+Chapter 8, continued: Loop Structures and booleans<br>
 Chapter 9: Simulation and Design
 
 **Week 10**<br>
