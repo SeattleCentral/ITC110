@@ -1,0 +1,338 @@
+STAMOS, Alex Security in Post-Snowden World, CSD, Jan 8 2014
+
+he is from Artemis  (part of NCC Group);
+has been in security for  a long time.
+
+Why should I care?
+
+Internet services is one of the things the US still exports...
+
+he is part of iSECpartners  part of NCCGroup.
+
+
+maintaining competiveness means maintaining trust (if you're selling srvices abroad  eg
+Cisco  revs dropped 20% after Snowden revelations!
+
+NSAs capabilites are good marker for other nation-state actors...
+
+last  glimpse was Chinese attack (on US);  Aurora attacks...  0-day (oh-day) means  malware  2009  (now called  APT advanced persistent threat)  now)
+
+such capabilities help predict non-nation threats  (trickle down theory!)
+
+but now  these exploits are available on the market   (any E European gangster in a tracksuit can buy it)
+
+
+NTLM cracking//   pswd  based  breaking on  ?  Msft  networks   /(eg thru windows update...
+
+Flame  (successor to Stuxnet)...
+
+even if  u don't care, ur customers do...
+
+
+problems with Snowden Disclosuers
+
+hard to trust someof his assertions...
+
+his claim of "direct access to Google servers" is not supported by facts,   altho may have had equivalent access ...
+
+we will only use docs published by media (in this lecture)
+
+he lists  6 ways of  hacking into  Angela Merkel cell phone  (fake base station,  many many others)
+
+media filter  (media does not genl have tech details... just political stuff)
+
+*******************
+Revelation  NSA   PRISM program...
+
+PRISM Collection Dataflow...
+
+
+you would get request from FBI  DITU  sent to a  data provider  (eg Yahoo etc)
+
+PRISM:  alllows  access to hard drives of  providers...
+
+DNI selectors...  fuzzy matches on names, phones   (cuz they have way too much data to find relevant data)
+
+PRISM... prob automated...  no human in loop  (but there should be)
+uses a secure portal for an upload...
+
+eg ISP  may get  a request from a German judge in German for info  where  a child has been kidnapped  (but how do you authenticate that)
+
+PRISM  what to do abt it?
+
+think long and hard abt acquiescing to requests that are not legally compelled by govt.
+
+must think long and hard abt how u will respond to FISA/ FAA Sec 702 requests...
+
+FAA  Sec 702  (eg like the Verizon  events);
+
+Lavabit... was forced  to go out of biz to avoid complying with requests...
+
+regulatory arbitrage...   some American companies  may  put servers overseas to avoid  Amer. regs...
+
+divorce attorneys are the worst, he jokes...
+
+Revelation NSA  sniffs the major POPs
+
+one such is XKey Store.
+
+Upstream is another  FAA 702 operation  (besides  PRISM)
+
+
+undersea cables...   huge  amt of flow thru USA  (eg  cannot get a packet from S America to Europe without going thru USA)
+
+he did a lot of trace-routes  when he was in Buenos Aires... interesting...
+
+(he was at LoudCloud)    cables are all run along  railroad  tracks  (from the RR, you buy a 6 inch by 3000 miles easement)
+otherwise impossible to get thousands of  easements...
+read  telegeography  to get this info...
+
+Cable Sniffing...
+
+guy called  EFF  to report  racks and racks of  NSA installed eqpt in the central office of ATT) gathering info for  NSA.
+(NSA prob made a deal with the companies to install this)
+
+or can use  physical or software  taps  (eg for  cisco or juniper routers)
+
+above was in an ATT  office  (central office)...
+
+sniffing  ACP....
+
+XKEYSCORE database...
+
+NSA is prob using optical taps...  get all phone calls,  MPLS
+
+this prevents leakage of targeting data to carriers (so you catch suspects unaware)...
+allows  NSA to pick and choose what they want...
+
+a lot of overseas cables are collabs  (eg  NTT and ATT...  NTT may not be aware of tap)
+
+but NSA can't record everything...  (first get rid of Netflix and YouTube  and that gets rid of  60% of traffic)
+
+they get  email;  SMS; DNS
+DNS  requests  are easy for worried company to monitor...
+
+sniffing - what to do?
+
+move all external sites to HTTPS  (and away from HTTP)
+but v v expensive to do  (and throws away lots of power to do https security)
+
+but HTTP 2.0 will come out in few years to replace  http...
+SPDY  (speedy also helps)  (anoter protocol)
+
+do not use  POTS voice calls for critical  conversations  (nothing u can do to secure it)
+5-6  companies handle alomost  all conference calls...
+pots  = plain old telephone service  (landlines)
+
+use VOIP  cuz can be encrypted  .....
+
+
+think hard abt DNS  namespace leakage
+DNS logs are easily compressed and easy to search...
+
+most ISPs  buy bandwidth to  implement their WAN...
+better to route  via private link  (eg via ATT)  rather than thru internet (which is horribly slow)...
+
+if there is  bad qual of service, then they just  throw away the youtube/ ntflix traffic  first to improve it)
+
+dedicated lambda for WAN links....
+
+SWIFT  (financial network, HQ in switzerland... extensive  WAN... big finance)
+
+GFE =google front end  (everything is first routed to that) then GFE parcels out tasks....
+oh u want to search or do email...  then  gets routed  inside  google cloud.
+
+traffic is in clear within the google cloud.
+
+NSA..." mainly deals with foreign nationals... eg 51%"
+5 Is  (eye s) are the  english spk countries.. canada,  us, brit, + austral + new zea)
+
+see Brandon Downey  post  in  washingtonpost.com  on snowden docs...  oct 30 2013...
+
+since 2009  NSA, FBI invovled to help "protect “”  our companies...
+
+analysis  WAN links  taps are prob at offshore landing sites
+so  u “might” be safe if links are only domestic.
+
+
+What to do?
+encrypt all internal connections:  2 options:
+
+wire speed VPN...  to encrypt in real time)
+but does not fail gracefull and expensive...
+
+but  then competely opque to carriers so carriers cannot do optimization to help with Qual of Service they just look like bare packets...
+
+could do private key stuff  (push keys out to your own servers)
+
+wire speed VPN.. prob fine if you are a bank or trad biz...
+
+if google// prob do latter solution.
+
+
+Revelation:  NSA  can active MITM  targeted indivudals
+
+one goal was to seed malware on machines used at Belgacom
+impersonated slashdot and linkedIn...
+
+could hack routers  (this way can spy on Europ Union)
+
+
+inser  “o-day  “ malware...
+
+another way to hack:  quantum targeting...   try to BEAT the legitimate packets..
+do TCP  sequence  number...
+
+this is man in the middle
+
+CNNIC  chinese national  NIC...
+
+what are they inserting... poss javascript...
+
+he got this from a slide deck (maybe from NSA);
+
+how are they not causing a TCP reset?
+(prob  not doing this anymore)
+
+best  protection is using HTTPS everywhere.
+
+Revelation:  NSA likes to unwrap  TLS
+
+likes to get private keys...
+
+LONGHAUL  does attack orchestration...
+
+TLS  attacks:  no indication of magic abilities to attack TLS
+
+factoring RSA 1024...
+best to hack once,  unwrap TLS many times...
+
+
+what to do?
+
+consider  HSM = hardware security modules to store front-end keys...
+
+
+diffey -hellman exchange..
+use perfect forward secrecy on all TLS
+we recommend  ECDHE
+
+certificate  authority is totally broken   (look at your certifs, prob some from Russia, Turkey)
+
+get yourself on the Chrome  HSTS list  see
+chrome//HSTS...
+
+
+RSA is dragging their feet on  transparency of certificates...
+
+Revelation: NIST backdoored a standard!
+
+deterministic....
+
+algo was ALWAYS fishy!  its slow, unneces...
+
+Conclusions:  what we are not saying
+NIST intentionally  put a back door in their PRNG (psuedo random numb gen)
+only has to solve one instance of elliptic curve discrete log problem...
+
+
+see joseph mein story in SF dec 20 2013...
+
+secret contract tired NSA and secuity industry pioneer.
+
+
+RSA had a contract for 10M  with  NSA to do this!  (probably)
+
+
+people  prev trusted  US govt... not anymore!
+
+may need to substitute ENISA  (euorpen version of NIST)
+huge PITA (pain in butt) for OEMS...
+
+this  might give a hint of the NSA’s requirement for backdoors...
+
+this is a true backdoor...
+
+only exploitable by creator of magic numbers...
+
+
+hints to strength of EC DLP = elliptic curve DLP problem  dlp  discrete log problem... (it is strong: lots of math behind it)
+
+
+what to do?
+
+build in crypto agility....or look to  chrome dev  (already supports this)
+get ready for ENISA standards...
+
+
+here is request for NIST budget...  they declare they want to put backdoors in commercial systems...
+
+
+DeityBounce... leaked by Der Spiegel...  from Jason ?...
+(“implants”   )
+
+reflash bios...     can  intercept router en route to UPS/ FedEx  get the router and modify it then wrap it up again and put it on the doorstep...
+
+
+insert backdoor in every product that is shipped...
+or put in rootkits...
+huge focus on physical access...  juniper, hp...
+
+most backdoors might be indist from real bugs
+
+look for timing leakage
+bad PRNGS.. pseudo random number genrators...
+
+obscure memory mgmt bugs...
+
+easy thing:  do NOT buy US products...
+
+buy products from channel...   buy your computer from Best Buy..
+supply chain security... big vulnerability!!!!
+(he holds up his apple laptop....)
+
+thunderbolt cable tslef has a full ARM core in it!!! (that can be hacked)
+
+REvelation:  NSA likes to spy on foeign leaders
+nsa likes to attack TOR.
+
+beam  in microwave  to energize  an  RF toy  delivered by singing school kids to  ambassafors
+can do similar thing  tiwht  VGA cable to xmt  contents of screen.
+
+what we have NOT seen
+
+no quantum comptuers
+no magic crypto  breakthrus
+little discuss of 0-day capabilities...
+
+genl advice...
+
+add NSA to ur list of threat actors..
+makes threat modeling more fun!
+
+lobby the US gov t...  (all major tech companeis are lobbying)
+
+ethics slide...  are we like docs or lawyers... with special responsiblites...
+
+he gave a talk on this at Defcom... see that...
+
+product on  University Avenue... used to spy on Americans (Palo Alto)
+(Palentir?)
+
+obviously other govts are doing the same... where are their Snowdens?
+
+alex@artemis.net ....
+
+aud comment:  compromise doping layer...  eg to compromise / shorten length of  PRNG,,,
+
+every country has source code for every program...  audience comment (just sue the company for patent infrigement to see the source code!)
+
+
+his company got a laptop from  a company ceo that went to china... it was doing bizarre stuff and we could NOT discover the Chinese hacks that the chinese put into it  (it was not discoverable)...
+
+some companies just  take throw away computers when they go to  Chine  (then donate to kindergartens)... if u go to China, bring a cheap Chromebook, then dump it!
+
+Answer to my question... it’s a tradeoff...  a lot of people die in car accidents and we still  let people drive...
+
+also  he and others Q whether Diane F. is a liberal.   
+trade offs... may be fine for foreign nationals.  He was in favor of Stuxnet  (better a comp virus then  killing several hundred people and maybe not succeeding in disabling centrifuges)
