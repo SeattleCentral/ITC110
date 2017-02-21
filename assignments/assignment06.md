@@ -14,24 +14,24 @@ Due: February 27, 2017
 
     Write 2 functions, encoder() and decoder(), that take a message and key parameter, and return an encrypted or decrypted message, respectively.
 
-Example:
+	Example:
 
-    print(encoder("Banana", 2))
-    # Prints "Dcpcpc"
+    	print(encoder("Banana", 2))
+    	# Prints "Dcpcpc"
 
-    print(decoder("Dcpcpc", 2))
-    # Prints "Banana"
+    	print(decoder("Dcpcpc", 2))
+    	# Prints "Banana"
 
-Note:
-Recall that ord() returns an integer value for a character, and chr() returns a character from an integer. 
+	Note:
+	Recall that ord() returns an integer value for a character, and chr() returns a character from an integer. 
 
-    print(chr(ord("B") + 2))
-    # Prints "D"
+    	print(chr(ord("B") + 2))
+    	# Prints "D"
 
-{:start="2"}
+
 2. Write a function, word_count(), that returns the number (int) of words in a given sentence (string type). Consider spaces as word separators. 
 
-Example:
+	Example:
 
-    print(word_count("Hello, Ricky Bobby, and that's a nice car"))
-    # Prints 8
+    	print(word_count("Hello, Ricky Bobby, and that's a nice car"))
+    	# Prints 8
