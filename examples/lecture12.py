@@ -6,13 +6,13 @@ bank_accounts = ["a", "b", "c", "d"]
 def grow_money(accounts, money_to_add):
     for i in range(len(accounts)):
         accounts[i] = accounts[i] + money_to_add
-
+    # Notice: no return statment
 
 return_grow_money = grow_money(bank_accounts, 100.00)
 
 print("Return of grow money is: ")
-print(return_grow_money)
+print(return_grow_money) # Prints None
 
 print("The new bank accounts are: ")
-print(bank_accounts)
+print(bank_accounts)     # Prints a modified List!!
 

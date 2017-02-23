@@ -1,18 +1,21 @@
-# Python passes by value, but watch out for Lists!
+# Celsius to Fahrenheit
+def is_it_safe(celsius):
+    celsius = float(celsius)
 
-bank_accounts = ["a", "b", "c", "d"]
+    fahrenheit = 32 + 9/5 * celsius
 
-# `accounts` is a List type []
-def grow_money(accounts, money_to_add):
-    for i in range(len(accounts)):
-        accounts[i] = accounts[i] + money_to_add
-    # Notice: no return statment
+    if fahrenheit > 90:
+        # >= greater than or equal too
+        # == is equal to
+        print("It's way too hot outside, stay indoors and eat ice cream")
+    if fahrenheit < 32:
+        print("It's freezing outside! Stay indoors.")
 
-return_grow_money = grow_money(bank_accounts, 100.00)
+    # Will print no matter what when function is called.
+    print("Hi, there, my name is Flow.")
 
-print("Return of grow money is: ")
-print(return_grow_money) # Prints None
-
-print("The new bank accounts are: ")
-print(bank_accounts)     # Prints a modified List!!
-
+print("Is it safe to go outside?")
+print("=========================")
+celsius = input("What's the temperature in Celsius? ")
+is_it_safe(celsius)
+print()
