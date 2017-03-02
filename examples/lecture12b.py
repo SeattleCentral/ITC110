@@ -8,6 +8,15 @@ def is_it_safe(celsius):
         # >= greater than or equal too
         # == is equal to
         print("It's way too hot outside, stay indoors and eat ice cream")
+    # Bad Practie: nested else's and if's
+    # else:
+    #     if fahrenheit < 32:
+    #         print("It's freezing outside! Stay indoors.")
+    #     else:
+    #         if fahrenheit < 45:
+    #             print("It's kind of cold, but okay.")
+    #         else:
+    #             print("It's fine outside.")
     elif fahrenheit < 32:
         print("It's freezing outside! Stay indoors.")
     elif fahrenheit < 45:
