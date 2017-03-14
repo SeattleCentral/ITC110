@@ -30,7 +30,7 @@ print ("Property: ", fifi.class_name)
 print ('--------------')
 
 fido.get_instance_name()
-Dog.get_class_name('Test')
+Dog.get_class_name('Test') 
 
 
 

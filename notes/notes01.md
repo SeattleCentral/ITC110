@@ -1,5 +1,5 @@
 # Notes from January 4th 2017
-Be mindful of these tidbits of information. They may become quiz questions. Which leads to test questions. Which leads to suffering...
+"Be mindful of these tidbits of information. They may become quiz questions. Which leads to test questions. Which leads to suffering..."
 
 <cite>- Yoda</cite>
 

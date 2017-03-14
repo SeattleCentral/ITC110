@@ -1,7 +1,7 @@
 # Notes from January 18th 2017
 "Programmers will always make errors. No advance in formal languages will once and for all prevail over human fallibility.”
 
-<cite>- Robert N. Britcher</cite>
+<cite>- Robert N. Britcher, *The Limits of Software*</cite>
 
 ## Literal
 > A literal is a representation of a specific value, for example `3` is a literal representation of the whole number three.

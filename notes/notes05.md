@@ -1,5 +1,5 @@
 # Notes from January 23rd 2017
-I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone."
+"I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone."
 
 <cite>- Bjarne Stroustrup *(Inventor of the C++ Programming Language)*</cite>
 

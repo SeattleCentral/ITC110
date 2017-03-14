@@ -1,5 +1,5 @@
 # Notes from January 9th 2017
-The term *architecture* is tossed around now in software. I'm not sure how it applies.
+"The term *architecture* is tossed around now in software. I'm not sure how it applies."
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
 
