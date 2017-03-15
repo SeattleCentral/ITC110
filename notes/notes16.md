@@ -16,15 +16,15 @@ All methods in a Python class have an initial argument, `self`, that is implicit
 
 Example:
 
-	class Dog:
+    class Dog:
 
-		def bark(self):
-			print("Woof!")
-	
-	
-	fido = Dog()
-	fido.bark()
-	# Prints "Woof!"
+        def bark(self):
+            print("Woof!")
+    
+    
+    fido = Dog()
+    fido.bark()
+    # Prints "Woof!"
 
 ## Multi-Sided Dice
 
