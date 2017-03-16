@@ -30,8 +30,10 @@ class Pumpkin:
     def update(self):
         self.x_position = self.getNextX()
         self.y_position = self.getNextY()
-        self.setHighestPoint()
+        self.highest_point = self.checkHighestPoint()
 
+    # Helper methods
+    # ==============
     def getNextX(self):
         return self.x_position + self.time_interval * self.x_velocity
 
@@ -43,9 +45,11 @@ class Pumpkin:
         self.y_velocity = final_y_velocity
         return y_position
 
-    def setHighestPoint(self):
+    def checkHighestPoint(self):
         if self.y_position > self.highest_point:
-            self.highest_point = self.y_position
+            return self.y_position
+        else:
+            return self.highest_point
 
     # Accessor methods
     # ================
