@@ -19,5 +19,11 @@ Craig's "meh" face — Link to [code](craig_meh.py) <br>
 Matthew's "meh" face — Link to [code](matthew_meh.py) <br>
 <img src="screenshots/matthew_meh.png" width="400">
 
+Craig's "sunrise" face — Link to [code](craig_sunrise.py) <br>
+<img src="screenshots/craig_sunrise.png" width="400">
+
+Jess's "Big Dipper" face — Link to [code](jess_bigdipper.py) <br>
+<img src="screenshots/jess_bigdipper.png" width="400">
+
 
 
