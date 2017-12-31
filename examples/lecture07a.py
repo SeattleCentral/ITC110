@@ -1,7 +1,7 @@
 # Dog Example
 
-class Dog(object):
 
+class Dog(object):
     def __init__(self, name="", owner_name=""):
         self.name = name
         self.owner_name = owner_name

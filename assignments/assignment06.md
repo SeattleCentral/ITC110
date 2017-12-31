@@ -1,7 +1,7 @@
 ## Assignment 06
-Assigned on: February 20, 2017
+Assigned on: <!-- February 20, 2017
 
-Due: February 27, 2017
+Due: February 27, 2017 -->
 
 ## Complete The Following
 

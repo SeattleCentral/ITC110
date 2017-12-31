@@ -7,11 +7,12 @@ Ivan Mwiruki has graciously allowed me to use his "meh" face
 application code as an example.
 """
 
+
 def main():
     win = GraphWin("Meh Face", 500, 500)
     win.setBackground("black")
 
-    face = Circle(Point(250,200), 150)
+    face = Circle(Point(250, 200), 150)
     face.setFill("yellow")
     face.draw(win)
 
@@ -37,5 +38,6 @@ def main():
 
     win.getMouse()
     win.close()
+
 
 main()

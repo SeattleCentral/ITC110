@@ -1,7 +1,7 @@
 # Assignment 08
-Assigned on: March 13, 2017
+Assigned on: <!-- March 13, 2017
 
-Due: March 21, 2017
+Due: March 21, 2017 -->
 
 ## Complete The Following
 

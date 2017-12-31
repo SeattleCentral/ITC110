@@ -7,5 +7,6 @@ win = GraphWin()
 clicked_point = win.getMouse()
 
 print("You clicked at x={0}, y={1}.".format(
-        clicked_point.getX(), clicked_point.getY()
-    ))
+    clicked_point.getX(),
+    clicked_point.getY()
+))

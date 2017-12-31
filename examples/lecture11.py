@@ -8,6 +8,7 @@ def main():
 
     file.close()
 
+
 main()
 
 
@@ -19,5 +20,6 @@ def othermain():
     # Safer way to open a file.
     with open(filename, 'r') as file:
         file.read()
+
 
 othermain()

@@ -25,6 +25,7 @@ def make_student(data_row):
     name = first_name + " " + last_name
     return Student(name, hours, qpoints)
 
+
 def main():
     filename = 'students.csv'
     file = open(filename, 'r')
@@ -46,35 +47,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

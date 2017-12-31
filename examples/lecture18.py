@@ -15,23 +15,25 @@ class Person:
         return ("Eye color: " + self.eye_color +
                 "\nHair color: " + self.hair_color)
 
+
 class_list = {
     '3179': {
-        'title':'ITC 110',
+        'title': 'ITC 110',
         'credits': 5,
         'instructor': 'Bob Smith'
     },
     '9876': {
-        'title':'WEB 120',
+        'title': 'WEB 120',
         'credits': 4,
         'instructor': 'Bill Bobbins'
     },
     '0980': {
-        'title':'WEB 130',
+        'title': 'WEB 130',
         'credits': 4,
         'instructor': 'Sally Smith'
     },
 }
+
 
 class Student(Person):
     """
@@ -48,7 +50,7 @@ class Student(Person):
         print(self.full_name() + ' is enrolled in:')
         for course in self.courses:
             print('Course #{0} - {1}'.format(course,
-                    class_list[course]['title']))
+                  class_list[course]['title']))
             print('Credits:', class_list[course]['credits'])
             print('Instructor:', class_list[course]['instructor'])
 
@@ -65,13 +67,3 @@ sally.addCourse('3179')
 sally.addCourse('9876')
 
 sally.printCourses()
-
-
-
-
-
-
-
-
-
-

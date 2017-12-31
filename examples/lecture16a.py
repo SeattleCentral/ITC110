@@ -16,7 +16,7 @@ class Dice:
     def getValue(self):
         return self.value
 
-    #Mutator methods
+    # Mutator methods
     def roll(self):
         self.value = randrange(1, self.sides + 1)
 
@@ -36,33 +36,4 @@ print(mydie.getValue())
 # Enter rolling loop
 for i in range(15):
     mydie.roll()
-    print(mydie.getValue())  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    print(mydie.getValue())

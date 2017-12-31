@@ -1,5 +1,6 @@
 from tkinter.filedialog import askopenfilename
 
+
 def main():
     sum = 0.0
     count = 0
@@ -8,7 +9,8 @@ def main():
 
     file = open(filename, 'r')
 
-    header = file.readline()
+    # Read header line
+    file.readline()
 
     # for line in file.readlines():
     #     temp = float(line)
@@ -23,7 +25,7 @@ def main():
                 temp = float(column)
                 sum += temp
                 count += 1
-            except:
+            except Exception:
                 print("Skipping invalid line.")
         line = file.readline()
 

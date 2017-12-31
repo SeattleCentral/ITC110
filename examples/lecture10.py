@@ -1,5 +1,6 @@
 # Encoding characters
 
+
 def encoder(message):
     print("ITC 110's fancy encryption app.")
 
@@ -12,6 +13,7 @@ def encoder(message):
     encrypted = encrypted[:-1]
 
     return encrypted
+
 
 def decoder(secret):
     # Secret is a string of numbers separated by a space.
@@ -36,7 +38,6 @@ def decoder(secret):
     return message
 
 
-
 def main():
     message = input("What's you secret message? ")
 
@@ -52,10 +53,3 @@ def main():
 
 
 main()
-
-
-
-
-
-
-

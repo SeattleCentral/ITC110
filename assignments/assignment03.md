@@ -1,7 +1,7 @@
 ## Assignment 03
-Assigned on: January 23, 2017
+Assigned on: <!-- January 23, 2017
 
-Due: January 30, 2017
+Due: January 30, 2017 -->
 
 ## Complete The Following
 

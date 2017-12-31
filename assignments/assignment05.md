@@ -1,7 +1,7 @@
 ## Assignment 05
-Assigned on: February 08, 2017
+Assigned on: <!-- February 08, 2017
 
-Due: February 15, 2017
+Due: February 15, 2017 -->
 
 ## Complete The Following
 

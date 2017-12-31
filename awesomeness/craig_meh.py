@@ -18,8 +18,8 @@ leftEye = Oval(Point(50, 60), Point(90, 80))
 leftEye.setFill('white')
 leftEye.setOutline('black')
 leftEye.setWidth(2)
-rightEye = leftEye.clone() #rightEye is an exact copy of the left
-rightEye.move(60,0)
+rightEye = leftEye.clone()  # rightEye is an exact copy of the left
+rightEye.move(60, 0)
 
 # Describe pupils for the eyes
 leftPupil = Circle(Point(65, 73), 6)
@@ -32,12 +32,13 @@ rightPupil.setWidth(0)
 # Describe the nose
 nose1 = Line(Point(95, 95), Point(95, 105))
 nose1.setWidth(3)
-nose1.setFill ('blue')
+nose1.setFill('blue')
 nose2 = Line(Point(94, 105), Point(107, 105))
 nose2.setWidth(3)
-nose2.setFill ('blue')
-nose3 = nose1.clone() #right side of nose is an exact copy of left side of nose
-nose3.move(10,0)
+nose2.setFill('blue')
+# right side of nose is an exact copy of left side of nose
+nose3 = nose1.clone()
+nose3.move(10, 0)
 
 # Describe the mouth
 
@@ -47,10 +48,10 @@ nose3.move(10,0)
 # mouth.setFill('purple')
 
 # Squiggle Mouth
-mouth1 = Line (Point(90, 130), Point(100, 140))
+mouth1 = Line(Point(90, 130), Point(100, 140))
 mouth1.setWidth(2)
 mouth1.setFill('purple')
-mouth2 = Line (Point(100, 140), Point(110, 130))
+mouth2 = Line(Point(100, 140), Point(110, 130))
 mouth2.setWidth(2)
 mouth2.setFill('purple')
 mouth3 = mouth1.clone()
@@ -62,15 +63,15 @@ mouth4.move(-20, 0)
 mouth6 = mouth2.clone()
 mouth6.move(-40, 0)
 mouth7 = mouth1.clone()
-mouth7.move(-20,0)
+mouth7.move(-20, 0)
 mouth8 = mouth2.clone()
-mouth8.move(20,0)
+mouth8.move(20, 0)
 
 # Describe speech bubble
 speechBubble = Oval(Point(190, 50), Point(290, 120))
 speechBubble.setFill('white')
 speechBubble.setWidth(0)
-speechArrow = Polygon(Point(195, 95), Point(170, 130), Point(210,110))
+speechArrow = Polygon(Point(195, 95), Point(170, 130), Point(210, 110))
 speechArrow.setWidth(0)
 speechArrow.setOutline('white')
 speechArrow.setFill('white')
@@ -115,11 +116,11 @@ speechBubble.draw(win)
 speechArrow.draw(win)
 outputText.setText(inputText.getText())
 outputText.draw(win)
-leftPupil.move(17,0)
-rightPupil.move(-20,5)
+leftPupil.move(17, 0)
+rightPupil.move(-20, 5)
 
 # Change instructions at bottom
-instructText.move(0,100)
+instructText.move(0, 100)
 instructText2 = Text(Point(150, 270), "Click anywhere to close.")
 instructText2.setFill('white')
 instructText2.draw(win)

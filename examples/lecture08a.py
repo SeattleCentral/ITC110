@@ -1,5 +1,6 @@
 from graphics import *
 
+
 def main():
     win = GraphWin("Draw a Triangle")
     win.setCoords(0.0, 0.0, 10.0, 10.0)
@@ -23,6 +24,5 @@ def main():
     message.setText("Click anywhere to quit.")
     win.getMouse()
 
+
 main()
-
-

@@ -1,15 +1,16 @@
 # ITC110 WN17
 # Assignment 4 (taken to extremes)
 # Ron Nims
+
 import graphics
 import math
 import random
 from graphics import *
 
+
 class Face:
 
     def __init__(self, posX, posY, mood):
-    
         self.posX = posX
         self.posY = posY		
         self.mood = mood

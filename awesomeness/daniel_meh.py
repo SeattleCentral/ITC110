@@ -27,7 +27,7 @@ circ = Circle(pupil_right, 5)
 circ.setFill('gray')
 circ.draw(win)
 
-line = Line(Point (160, 160), Point(60, 160))
+line = Line(Point(160, 160), Point(60, 160))
 line.draw(win)
 
 

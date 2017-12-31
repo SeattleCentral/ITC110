@@ -1,7 +1,10 @@
 # Passing a parameter to a function
 # =================================
+
+
 def greet_cat(cat):
     print ("Hello ", cat, ", my furry friend!")
+
 
 greet_cat("Jimmy")
 
@@ -43,5 +46,3 @@ message_to_print = "Hello, {0}. You've been {1}ed!".format(name, tree)
 print(message_to_print)
 
 # Prints "Hello, Bob. I see you've been fired!"
-
-

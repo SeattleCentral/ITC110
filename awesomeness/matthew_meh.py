@@ -36,7 +36,7 @@ rightPupil = Circle(my_rightEyeball, pupilSize)
 rightPupil.setFill('black')
 rightPupil.draw(win)
 
-scruff = Oval(Point(50, 170), Point (151, 115))
+scruff = Oval(Point(50, 170), Point(151, 115))
 scruff.setFill('beige')
 scruff.draw(win)
 
@@ -56,11 +56,11 @@ hair2 = Line(Point(38, 81), Point(42, 94))
 hair2.setWidth(2)
 hair2.draw(win)
 
-hair3 = Line(Point(200-42, 94), Point(200-38, 81))
+hair3 = Line(Point(200 - 42, 94), Point(200 - 38, 81))
 hair3.setWidth(2)
 hair3.draw(win)
 
-hair4 = Line(Point(200-38, 81), Point(200-34, 94))
+hair4 = Line(Point(200 - 38, 81), Point(200 - 34, 94))
 hair4.setWidth(2)
 hair4.draw(win)
 

@@ -2,7 +2,7 @@
 def is_it_safe(celsius):
     celsius = float(celsius)
 
-    fahrenheit = 32 + 9/5 * celsius
+    fahrenheit = 32 + 9 / 5 * celsius
 
     if fahrenheit > 90:
         # >= greater than or equal too

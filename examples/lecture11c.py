@@ -1,5 +1,6 @@
 from tkinter.filedialog import askopenfilename
 
+
 def main():
     filename = askopenfilename()
 
@@ -8,5 +9,6 @@ def main():
     file = open(filename, 'r')
 
     print(file.read())
+
 
 main()

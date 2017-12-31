@@ -3,6 +3,7 @@
 
 from math import sin, cos, radians
 
+
 def main():
     angle = float(input("Enter the launch angle (in degrees): "))
     velocity = float(input("Enter the intial velocity (in m/s): "))
@@ -24,7 +25,7 @@ def main():
         x_position = x_position + time_interval * x_velocity
         final_y_velocity = y_velocity - time_interval * 9.8
         y_position = y_position + time_interval * (
-            (y_velocity + final_y_velocity) / 2.0 # Average velocity
+            (y_velocity + final_y_velocity) / 2.0   # Average velocity
         )
         y_velocity = final_y_velocity
 
@@ -33,19 +34,7 @@ def main():
 
     print ("\nDistance traveled: {0:0.1f} meters".format(x_position))
     print ("The highest point reached is {0:0.1f} meters\n".format(
-            highest_point))
+        highest_point))
 
 
 main()
-
-
-
-
-
-
-
-
-
-
-
-

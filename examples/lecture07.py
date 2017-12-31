@@ -28,8 +28,8 @@ print("A's x =", a.getX())
 print("B's x =", b.getX())
 
 # What's happening inside the object...
-    # def getX(self):
-    #     return self.x
+# def getX(self):
+#     return self.x
 
 # Lines
 my_line = Line(a, b)

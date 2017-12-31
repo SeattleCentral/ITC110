@@ -1,7 +1,7 @@
 ## Assignment 04
-Assigned on: January 30, 2017
+Assigned on: <!-- January 30, 2017
 
-Due: February 06, 2017
+Due: February 06, 2017 -->
 
 ## Complete The Following
 

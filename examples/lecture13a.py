@@ -2,12 +2,13 @@ def convert_to_number(value):
     try:
         value = int(value)
         return value
-    except:
+    except Exception:
         return 0
+
 
 def main():
     print("Find the largest number")
-    
+
     number_string = input("Enter a list of numbers, separated by a space: ")
     # Expected input = "4 6 23 99 32 1 0 -4 44 76"
     numbers = number_string.split(" ")

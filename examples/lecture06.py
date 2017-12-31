@@ -6,4 +6,3 @@ win = graphics.GraphWin()
 from graphics import *
 
 win = GraphWin()
-

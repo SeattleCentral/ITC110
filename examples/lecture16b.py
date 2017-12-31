@@ -40,7 +40,7 @@ class Pumpkin:
     def getNextY(self):
         final_y_velocity = self.y_velocity - self.time_interval * 9.8
         y_position = self.y_position + self.time_interval * (
-            (self.y_velocity + final_y_velocity) / 2.0 # Average y velocity
+            (self.y_velocity + final_y_velocity) / 2.0  # Average y velocity
         )
         self.y_velocity = final_y_velocity
         return y_position
@@ -76,20 +76,8 @@ def main():
 
     print ("\nDistance traveled: {0:0.1f} meters".format(pumpkin.getX()))
     print ("The highest point reached is {0:0.1f} meters\n".format(
-            pumpkin.getHighestPoint() ))
+        pumpkin.getHighestPoint()))
 
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-
-
-
-

@@ -2,17 +2,18 @@ from datetime import date
 
 # JavaScript has zero-indexed months
 # So 01 is February (because 00 is January and 11 is December)
+#              > 0123456789
 date_from_web = "2017-01-08"
-                #0123456789
 
 year = int(date_from_web[0:4])
-month = int(date_from_web[5:7]) + 1 # Python has one-indexed MM
+month = int(date_from_web[5:7]) + 1     # Python has one-indexed MM
 day = int(date_from_web[8:])
 
 python_date = date(year, month, day)
 
 print("My date in Python is: {0}".format(
-        python_date.strftime('%c')))
+    python_date.strftime('%c'))
+)
 
 # String Concatenation
 name = "Bob"

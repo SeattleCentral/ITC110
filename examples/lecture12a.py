@@ -2,7 +2,7 @@
 def is_it_safe(celsius):
     celsius = float(celsius)
 
-    fahrenheit = 32 + 9/5 * celsius
+    fahrenheit = 32 + 9 / 5 * celsius
 
     if fahrenheit > 90:
         # >= greater than or equal too
@@ -13,6 +13,7 @@ def is_it_safe(celsius):
 
     # Will print no matter what when function is called.
     print("Hi, there, my name is Flow.")
+
 
 print("Is it safe to go outside?")
 print("=========================")

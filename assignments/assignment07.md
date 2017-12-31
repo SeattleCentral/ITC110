@@ -1,7 +1,7 @@
 ## Assignment 07
-Assigned on: March 06, 2017
+Assigned on: <!-- March 06, 2017
 
-Due: March 10, 2017
+Due: March 10, 2017 -->
 
 ## Complete The Following
 

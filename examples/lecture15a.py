@@ -1,17 +1,20 @@
 from graphics import *
 
+
 def handle_key(key, win):
     if key == 'r':
         win.setBackground('pink')
     elif key == 'w':
         win.setBackground('white')
     elif key == 'g':
-        win.setBackground('green')    
+        win.setBackground('green')
     elif key == 'b':
         win.setBackground('lightblue')
 
+
 def handle_click(point, win):
     pass
+
 
 def main():
     win = GraphWin('Click and Type', 500, 500)
@@ -30,12 +33,6 @@ def main():
 
     win.close()
 
+
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-

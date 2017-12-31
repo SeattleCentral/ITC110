@@ -1,8 +1,10 @@
 def sing_happy_line():
     print("Happy birthday to you.")
 
+
 def sing_happy_name(name):
     print("Happy birthday, dear {0}.".format(name))
+
 
 def sing_happy_birthday(name):
     sing_happy_line()
@@ -17,6 +19,7 @@ def sing_happy_birthday(name):
     #         sing_happy_line()
     #     else:
     #         sing_happy_name(name)
+
 
 name = input("What's your name? ")
 
