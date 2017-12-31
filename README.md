@@ -15,7 +15,7 @@
 * Time: 7:15pm - 9:20pm
 * Instructor: Joshua Wedekind
 * Office: Call for my current location. [(206) 930-2645](tel:+12069302645)
-* Office Hours:  MW 4pm - 6:30pm
+* Office Hours:  MW 5pm - 6:30pm
 * E-Mail: [joshua.wedekind@seattlecolleges.edu](mailto:joshua.wedekind@seattlecolleges.edu)
 * Website: [https://github.com/SeattleCentral/ITC110](https://github.com/SeattleCentral/ITC110)
 * Github: [halfnibble](https://github.com/halfnibble)
