@@ -9,8 +9,8 @@
 ## Course Information
 
 * Credits: 5.0 
-* Quarter: Winter 2017
-* Location: BE 3179
+* Quarter: Winter 2018
+* Location: BE 1130
 * Days: MW
 * Time: 7:15pm - 9:20pm
 * Instructor: Joshua Wedekind
@@ -115,7 +115,7 @@ Chapter 4, continued: Objects and Graphics
 
 **Week 6**<br>
 Chapter 5: Sequences: Strings, Lists, Files<br>
-Midterm - **February 8th, 2017**
+Midterm - **February 7th, 2017**
 
 **Week 7**<br>
 Chapter 6: Functions<br>
@@ -125,24 +125,19 @@ Chapter 7: Decision Structures
 Chapter 8: Loop Structures and booleans
 
 **Week 9**<br>
-Chapter 8, continued: Loop Structures and booleans<br>
-Chapter 9: Simulation and Design
+Chapter 9: Simulation and Design<br>
+Chapter 10: Defining Classes
 
 **Week 10**<br>
-Chapter 10: Defining Classes<br>
-Chapter 11: Data Collections
+Chapter 11: Data Collections<br>
+Chapter 12: OO Design
 
 **Week 11**<br>
-Chapter 12: OO Design<br>
-Chapter 13: Algorithm Design and Recursion
-
-**Week 12**<br>
-Review<br>
-Final Exam - **March 22nd, 2017**
+Chapter 13: Algorithm Design and Recursion<br>
+Final Exam - **March 14th, 2017**
 
 **\*No class on**<br>
-January 16th, 2017 - Martin Luther King, Jr. Day<br>
-February 20th, 2017 - President's Day
+January 15th, 2017 - Martin Luther King, Jr. Day<br>
+February 19th, 2017 - President's Day
 
 See College Holidays
-
