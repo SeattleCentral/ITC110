@@ -1,4 +1,4 @@
-# Notes from March 13th 2017
+<!-- # Notes from March 13th 2017
 "All non-trivial abstractions, to some degree, are leaky."
 
 <cite>- Joel Spolsky *(Joel on Software)*</cite>
@@ -116,4 +116,4 @@ Note: Python doesn't perform trigonometric calculations in degrees, therefore we
 ## Et Cetera
 * Slides for [Chapter 10](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter10.pptx)
 * Examples for [Lecture 16](../examples/lecture16.py) [Lecture 16a](../examples/lecture16a.py) [Lecture 16b](../examples/lecture16b.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/)
+* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->

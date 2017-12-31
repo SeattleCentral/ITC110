@@ -1,4 +1,4 @@
-# Notes from March 1st 2017
+<!-- # Notes from March 1st 2017
 “To err is human; To really foul things up requires a computer.” 
 
 <cite>- Uncertain</cite>
@@ -51,3 +51,4 @@ This syntax also allows you to capture the error message itself `as error` and p
 * Examples for [Lecture 13](../examples/lecture13.py) [Lecture 13a](../examples/lecture13a.py)
 * List of Python, built-in [Exceptions](https://docs.python.org/3/library/exceptions.html#built-in-exceptions)
 * Repl.it Development Environment: [https://repl.it](https://repl.it/)
+ -->

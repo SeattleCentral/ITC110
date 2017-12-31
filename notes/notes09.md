@@ -1,4 +1,4 @@
-# Notes from February 8th 2017
+<!-- # Notes from February 8th 2017
 “In the programming world, the word *string* has nothing to do with long thin stuff you tie knots in. A string is a sequence of characters.” 
 
 <cite>- Simon Monk, *Programming Arduino*</cite>
@@ -31,4 +31,4 @@ Examples
 ## Et Cetera
 * Slides for [Chapter 05](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter05.pptx)
 * Examples for [Lecture 09](../examples/lecture09.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/)
+* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->

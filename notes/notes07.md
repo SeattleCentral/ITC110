@@ -1,4 +1,4 @@
-# Notes from January 30th 2017
+<!-- # Notes from January 30th 2017
 “One thing that separates good programmers from bad programmers is that good programmers are more facile at jumping between layers of abstraction—they can keep the layers distinct while making changes and choose the right layer to make changes in.” 
 
 <cite>- Peter Seibel, *Coders at Work*</cite>
@@ -50,4 +50,4 @@ Link to [code](../examples/lecture07_student_ivan.py)
 * Examples for [Lecture 07](../examples/lecture07.py)
 * Dog Example for [Lecture 07a](../examples/lecture07a.py)
 * The graphics.py [file download](https://canvas.seattlecentral.edu/courses/1411133/files/76130838/download?wrap=1) for Chapter 04
-* Repl.it Development Environment: [https://repl.it](https://repl.it/)
+* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->

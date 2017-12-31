@@ -1,4 +1,4 @@
-# Notes from March 6th 2017
+<!-- # Notes from March 6th 2017
 "Success these days is a relative term. Some products and systems get by simply because a very small portion of them are used. Adn then there are the help desks used by the commercial software houses. Staffing them must be cheaper than testing. As for the Apollo and Shuttle space projects, the management plan did not call for help desks."
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
@@ -54,4 +54,4 @@ This sentinel loop will execute until the user types a special value of any nega
 * Slides for [Chapter 08](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter08.pptx)
 * Slides for [Chapter 10](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter10.pptx)
 * Examples for [Lecture 14](../examples/lecture14.py) [Lecture 14a](../examples/lecture14a.py) [Lecture 14b](../examples/lecture14b.py) [Lecture 14c](../examples/lecture14c.py) [Lecture 14d](../examples/lecture14d.py) [Lecture 14e](../examples/lecture14e.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/)
+* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->

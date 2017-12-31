@@ -1,4 +1,4 @@
-# Quiz 01
+<!-- # Quiz 01
 > Due: 01/12/2017 at 11:59 PM
 
 ## For Questions 1. through 3.
@@ -11,3 +11,4 @@ i.e. `True` works, but `true` does not.
 Should be answered by defining the specified function. Name the function "main".
 
 Optionally, you may call the function in your code, but it is not required.
+ -->
