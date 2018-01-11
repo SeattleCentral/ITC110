@@ -1,7 +1,7 @@
 ## Assignment 02
-Assigned on: <!-- January 11, 2017
+Assigned on: January 17, 2018
 
-Due: January 20, 2017 -->
+Due: January 22, 2018
 
 ## Complete The Following
 
