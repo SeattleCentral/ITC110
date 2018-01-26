@@ -1,4 +1,4 @@
-<!-- # Notes from January 23rd 2017
+# Notes from January 22nd 2017
 "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone."
 
 <cite>- Bjarne Stroustrup *(Inventor of the C++ Programming Language)*</cite>
@@ -45,4 +45,4 @@ So when multiplying an integer by a float, Python will convert the integer to a 
 * Slides for [Chapter 04](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter04.pptx)
 * Examples for [Lecture 05](../examples/lecture05.py)
 * The graphics.py [file download](https://canvas.seattlecentral.edu/courses/1411133/files/76130838/download?wrap=1) for Chapter 04
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

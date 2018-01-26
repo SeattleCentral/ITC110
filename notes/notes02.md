@@ -1,4 +1,4 @@
-<!-- # Notes from January 9th 2017
+# Notes from January 8th 2018
 "The term *architecture* is tossed around now in software. I'm not sure how it applies."
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
@@ -41,4 +41,4 @@ You can reference or use these variables later.
 * Examples for [Lecture 02](../examples/lecture02.py)
 * If you could not login with your first initial and last name, then contact Lisa Sandoval.
 * Download [Python](https://www.python.org)
-* Download [Atom](https://atom.io)  -->
+* Download [Atom](https://atom.io)

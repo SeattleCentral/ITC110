@@ -1,4 +1,4 @@
-<!-- # Notes from January 11th 2017
+# Notes from January 10th 2017
 "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.”
 
 <cite>- Neil Gaiman</cite>
@@ -67,4 +67,4 @@ This only works on *strings* that are properly enclosed in single, double, or tr
 * Slides for [Chapter 01](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter01.pptx)
 * Slides for [Chapter 02](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter02.pptx)
 * Examples for [Lecture 03](../examples/lecture03.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

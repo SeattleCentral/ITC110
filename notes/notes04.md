@@ -1,4 +1,4 @@
-<!-- # Notes from January 18th 2017
+# Notes from January 17th 2017
 "Programmers will always make errors. No advance in formal languages will once and for all prevail over human fallibility.”
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
@@ -67,4 +67,4 @@ The float number type supports a decimal, or *fractional* component. For example
 ## Et Cetera
 * Slides for [Chapter 03](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter03.pptx)
 * Examples for [Lecture 04](../examples/lecture04.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)
