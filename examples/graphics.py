@@ -569,9 +569,12 @@ class Point(GraphicsObject):
         other = Point(self.x,self.y)
         other.config = self.config.copy()
         return other
-                
-    def getX(self): return self.x
-    def getY(self): return self.y
+
+    def getX(self):
+        return self.x
+
+    def getY(self):
+        return self.y
 
 class _BBox(GraphicsObject):
     # Internal base class for objects represented by bounding box
@@ -627,7 +630,6 @@ class Oval(_BBox):
     def __repr__(self):
         return "Oval({}, {})".format(str(self.p1), str(self.p2))
 
-        
     def clone(self):
         other = Oval(self.p1, self.p2)
         other.config = self.config.copy()
