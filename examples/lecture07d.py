@@ -7,14 +7,15 @@ def main():
     win = GraphWin("Paint a Mosaic", width=400, height=400)
     win.setCoords(0.0, 0.0, 100.0, 100.0)
 
+    # This while loop will run indefinitely (Ctrl + C to kill the process)
     while True:
         point = win.getMouse()
         topLeft = getClosestGridVertix(point)
         bottomRight = Point(topLeft.getX() + 10, topLeft.getY() + 10)
         rectangle = Rectangle(topLeft, bottomRight)
 
+        # Randomly set a hexadecimal color as fill.
         color = "#{0:06x}".format(random.randint(0, 0xFFFFFF))
-
         rectangle.setFill(color)
 
         rectangle.draw(win)
