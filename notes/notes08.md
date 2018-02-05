@@ -1,4 +1,4 @@
-<!-- # Notes from February 1st 2017
+# Notes from February 1st 2018
 “One of the more common motivations for writing comments is bad code. We write a module and we know it is confusing and disorganizd. We know it's a mess. So we say to ourselves, *"Ooh, I'd better comment that!"* No! You'd better clean it!” 
 
 <cite>- Rober C. Martin, *Clean Code*</cite>
@@ -63,4 +63,4 @@ Example:
 * GPL, production GUI library for Python: [PyQt](https://riverbankcomputing.com/software/pyqt/intro)
 * Package GUI apps with [PyInstaller](https://pythonhosted.org/PyInstaller/)
 * The graphics.py [file download](https://canvas.seattlecentral.edu/courses/1411133/files/76130838/download?wrap=1) for Chapter 04
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

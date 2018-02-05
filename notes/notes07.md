@@ -13,20 +13,20 @@ Contains multiple *class* definitions to aid in building GUI's (graphical user i
 >A defintion that describes the properties and methods an object will have.
 
 ## Instance
->A particular unit or occurance of an object.
+>A particular unit or occurance of a class object.
 
 ## Instantiation
->The process of creating an *instance* of an *object* by invoking the *class* definition.
+>The process of creating an *instance* of an *class* (i.e. a new object) by invoking the *class* definition.
 
 ## Properties
->Variables belonging to an object. They are used to store data specific to an object. Also called *instance variables* when referring to an instance of an object.
+>Variables belonging to an object. They are used to store data specific to an object. Also called *instance variables*.
 
 ## Methods
 >Function definitions belonging to an object. They are used to produce actions on behalf of an object.
 
 # Example
 
-If a car is an ***object*** in the most literal sense, then a ***class*** would be the blueprints and engineering documents used to create a new car. The process of actually assembling the new car is ***instantiation.*** The new car created has values for its own ***properties*** (e.g. gas tank level) and can perform actions or ***methods*** (e.g. drive). This particular car that we just hypothetically built is an ***instance*** of the car object.
+If a car is an ***object*** in the most literal sense, then a ***class*** would be the blueprints and engineering documents used to create a new car. The process of actually assembling the new car is ***instantiation.*** The new car created has values for its own ***properties*** (e.g. gas tank level) and can perform actions or ***methods*** (e.g. drive). This particular car that we just hypothetically built is an ***instance*** of the car class.
 
 ## Accessors
 >Methods that return the value of an instance variable.
