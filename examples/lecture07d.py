@@ -23,15 +23,15 @@ def main():
 
 def getClosestGridVertix(point):
     # Find nearest upper left vertix in 10 point grid
-    x = int(point.getX())
-    while (x % 10) != 0:
-        x = x - 1
-
-    y = int(point.getY())
-    while (y % 10) != 0:
-        y = y - 1
+    x = getClosestGridCoord(point.getX())
+    y = getClosestGridCoord(point.getY())
 
     return Point(x, y)
+
+
+def getClosestGridCoord(value):
+    value = int(value)
+    return value - (value % 10
 
 
 if __name__ == '__main__':
