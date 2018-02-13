@@ -1,4 +1,4 @@
-<!-- # Notes from February 13th 2017
+# Notes from February 5th 2018 Part 2 and February 7th 2018
 “Funny, but it does seem right!  Barry, go for it...” 
 
 <cite>- Guido van Rossum, *comment while making the .join() method decision*</cite>
@@ -68,4 +68,4 @@ List object can be found in [this blog post.](http://lucumr.pocoo.org/2011/7/9/p
 * Slides for [Chapter 05](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter05.pptx)
 * Examples for [Lecture 10](../examples/lecture10.py)
 * Python and the Principle of Least Astonishment: [Blog Post](http://lucumr.pocoo.org/2011/7/9/python-and-pola/)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

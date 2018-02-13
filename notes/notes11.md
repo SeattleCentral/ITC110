@@ -1,4 +1,4 @@
-<!-- # Notes from February 15th 2017
+# Notes from February 7th 2018 and February 12 2018
 “Programmers will always make errors. No advance in formal languages will once and for all prevail over human fallibility.” 
 
 <cite>- Robert N. Britcher (The Limits of Software) </cite>
@@ -80,4 +80,4 @@ Example
 * Slides for [Chapter 07](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter07.pptx)
 * Examples for [Lecture 11](../examples/lecture11.py) [Lecture 11a](../examples/lecture11a.py) [Lecture 11b](../examples/lecture11b.py) [Lecture 11c](../examples/lecture11c.py) [Lecture 11d](../examples/lecture11d.py) [Lecture 11e](../examples/lecture11e.py)
 * Python and the Principle of Least Astonishment: [Blog Post](http://lucumr.pocoo.org/2011/7/9/python-and-pola/)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

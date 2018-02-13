@@ -1,4 +1,4 @@
-# Notes from February 1st 2018
+# Notes from January 31st 2018
 “One of the more common motivations for writing comments is bad code. We write a module and we know it is confusing and disorganizd. We know it's a mess. So we say to ourselves, *"Ooh, I'd better comment that!"* No! You'd better clean it!” 
 
 <cite>- Rober C. Martin, *Clean Code*</cite>
