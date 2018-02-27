@@ -1,4 +1,4 @@
-<!-- # Notes from February 22nd 2017
+# Notes from February 14th 2018
 “For S3, we believe we understand root cause and are working hard at repairing. Future updates across all services will be on dashboard.” 
 
 <cite>- @awscloud (During massive 4 hour outage) </cite>
@@ -73,4 +73,4 @@ Python has several built-in *relational operators* that let you compare values. 
 * Why does Python not have `switch/case` statements? [Blog by Pydanny](https://www.pydanny.com/why-doesnt-python-have-switch-case.html)
 * Want to learn more about programming at a lower level? [The C Programming Langauge](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 * Python and the Principle of Least Astonishment: [Blog Post](http://lucumr.pocoo.org/2011/7/9/python-and-pola/)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)

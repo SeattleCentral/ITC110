@@ -1,5 +1,5 @@
-<!-- # Notes from March 6th 2017
-"Success these days is a relative term. Some products and systems get by simply because a very small portion of them are used. Adn then there are the help desks used by the commercial software houses. Staffing them must be cheaper than testing. As for the Apollo and Shuttle space projects, the management plan did not call for help desks."
+# Notes from February 21st and 26th 2018
+"Success these days is a relative term. Some products and systems get by simply because a very small portion of them are used. And then there are the help desks used by the commercial software houses. Staffing them must be cheaper than testing. As for the Apollo and Shuttle space projects, the management plan did not call for help desks."
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
 
