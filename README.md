@@ -134,7 +134,9 @@ Chapter 12: OO Design
 
 **Week 11**<br>
 Chapter 13: Algorithm Design and Recursion<br>
-Final Exam - **March 14th, 2017**
+
+**Week 12**<br>
+Final Exam - **March 19th, 2017**
 
 **\*No class on**<br>
 January 15th, 2017 - Martin Luther King, Jr. Day<br>

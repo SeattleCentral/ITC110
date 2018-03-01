@@ -2,7 +2,7 @@
 
 
 def how_to_travel(weather='Good', time=15, money=20.00, rush_hour=True):
-    if weather == 'Bad' or time >= 45 and money > 10.00 and rush_hour:
+    if weather == 'Bad' or (time >= 45 and money > 10.00 and rush_hour):
         return 'Train'
     elif weather == 'Good' and time <= 45 or money < 10.00 and not rush_hour:
         return 'Car'
