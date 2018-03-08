@@ -36,5 +36,3 @@ class Cat:
 cat = Cat()
 cat.begin_cats_life()
 
-
-
