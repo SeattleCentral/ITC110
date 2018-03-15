@@ -1,4 +1,4 @@
-<!-- # Notes from March 8th 2017
+# Notes from February 28th 2018
 "Whoever stole my copy of Microsoft Office...I will find you. You have my Word."
 
 <cite>- Unknown</cite>
@@ -84,4 +84,4 @@ For an in-depth look at Python's unique way of defining object attributes, take 
 * Slides for [Chapter 08](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter08.pptx)
 * Slides for [Chapter 10](http://mcsp.wartburg.edu/zelle/python/ppics3/slides/Chapter10.pptx)
 * Examples for [Lecture 15](../examples/lecture15.py) [Lecture 15a](../examples/lecture15a.py) [Lecture 15b](../examples/lecture15b.py) [Lecture 15c](../examples/lecture15c.py)
-* Repl.it Development Environment: [https://repl.it](https://repl.it/) -->
+* Repl.it Development Environment: [https://repl.it](https://repl.it/)
