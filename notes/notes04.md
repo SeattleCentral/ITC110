@@ -1,4 +1,4 @@
-# Notes from January 17th 2017
+# Notes from January 16th 2019
 "Programmers will always make errors. No advance in formal languages will once and for all prevail over human fallibility.”
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
