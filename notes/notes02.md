@@ -1,4 +1,4 @@
-# Notes from January 8th 2018
+# Notes from January 9th 2019
 "The term *architecture* is tossed around now in software. I'm not sure how it applies."
 
 <cite>- Robert N. Britcher, *The Limits of Software*</cite>
