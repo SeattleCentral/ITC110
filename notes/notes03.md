@@ -1,4 +1,4 @@
-# Notes from January 10th 2017
+# Notes from January 14th 2019
 "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.”
 
 <cite>- Neil Gaiman</cite>
