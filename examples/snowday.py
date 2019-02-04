@@ -8,16 +8,17 @@ win.setBackground("blue")
 
 # Draw 75 snowballs
 snowballs = []
-for i in range(0, 75):
-    x = randint(1, 198)
-    y = randint(0, 198)
+num_snowballs = 75
+for i in range(num_snowballs):
+    x = randint(0, 199)
+    y = randint(0, 199)
     p = Point(x, y)
     snowball = Circle(p, randint(2, 3))
     snowball.setFill("white")
     snowball.draw(win)
     snowballs.append(snowball)
 
-# Freeze between frames in milliseconds
+# Freeze between frames in seconds
 animation_delay = 0.1
 
 frames_to_render = 20
@@ -30,7 +31,7 @@ for i in range(frames_to_render):
             snowball.draw(win)
     time.sleep(animation_delay)
 
-label = Text(Point(99, 100), "Happy SNOW DAY!")
+label = Text(Point(99, 99), "Happy SNOW DAY!")
 label.setFill("white")
 label.setSize(18)
 label.draw(win)
