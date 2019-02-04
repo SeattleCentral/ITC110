@@ -1,4 +1,4 @@
-# Notes for January 3rd 2018
+# Notes for January 7th 2019
 "Be mindful of these tidbits of information. They may become quiz questions. Which leads to test questions. Which leads to suffering..."
 
 <cite>- Yoda</cite>
