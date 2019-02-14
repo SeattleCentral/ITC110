@@ -1,4 +1,4 @@
-# Notes from January 24th 2017
+# Notes from January 28th 2019
 "See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)"
 
 <cite>- Linus Torvalds *(Creator of the Linux Operating System)*</cite>
