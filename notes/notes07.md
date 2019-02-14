@@ -1,4 +1,4 @@
-# Notes from January 29th 2018
+# Notes from January 30th 2019
 “One thing that separates good programmers from bad programmers is that good programmers are more facile at jumping between layers of abstraction—they can keep the layers distinct while making changes and choose the right layer to make changes in.” 
 
 <cite>- Peter Seibel, *Coders at Work*</cite>
