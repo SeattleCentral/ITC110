@@ -29,7 +29,7 @@ for i in range(frames_to_render):
             snowball.undraw()
             snowball.move(0, -200)
             snowball.draw(win)
-    time.sleep(animation_delay)
+    # time.sleep(animation_delay)
 
 label = Text(Point(99, 99), "Happy SNOW DAY!")
 label.setFill("white")
